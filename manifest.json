@@ -1,0 +1,8 @@
+{
+  "short_name": "cssPoker",
+  "name": "CSS Planning Poker",
+  "start_url": "/cssPoker/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
+
