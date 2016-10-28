@@ -1,3 +1,8 @@
+body {
+  background: black;
+  font-size: 100%;
+}
+
 .box {
   margin: 10px;
   flex-grow: 1;
@@ -31,7 +36,6 @@ label:hover {
 
 label, input ~ div {
   text-align: center;
-  background: green;
   color: white;
 }
 
@@ -67,4 +71,29 @@ input:checked + label {
 @keyframes blackOutAndIn {
  20% {background: black; color: black}
  60% {background: black; color: black}
+}
+
+.yellow * {
+  background: #b58900;
+}
+.orange * {
+  background: #cb4b16;
+}
+.red * {
+  background: #dc322f;
+}
+.magenta * {
+  background: #d33682;;
+}
+.violet * {
+  background: #6c71c4;
+}
+.blue * {
+  background: #268bd2;
+}
+.cyan * {
+  background: #2aa198;
+}
+.green * {
+  background: #859900;
 }
