@@ -13,4 +13,5 @@ scrum [planning poker](https://en.wikipedia.org/wiki/Planning_poker) app for you
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [manifest.json](https://developer.chrome.com/multidevice/android/installtohomescreen)
 - [solarized colors](http://ethanschoonover.com/solarized)
+- [android asset studio](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
 - [emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) ![](http://www.webpagefx.com/tools/emoji-cheat-sheet/favicon.ico)
