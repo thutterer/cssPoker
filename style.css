@@ -4,7 +4,7 @@
 
 body {
   display: flex;
-  min-height: 100%;
+  min-height: 100vh;
   flex-direction: column;
   background: black;
   font-size: 100%;
@@ -105,11 +105,3 @@ input:checked + label {
 .green * {
   background: #859900;
 }
-
-footer {
-  text-align: center;
-}
-footer img {
-  height: 20px;
-}
-
