@@ -77,7 +77,7 @@ input:checked + label {
 }
 
 @keyframes blackOutAndIn {
- 20% {background: black; color: black}
+  0% {background: black; color: black}
  60% {background: black; color: black}
 }
 
