@@ -43,7 +43,7 @@ label:hover {
 }
 
 label, input ~ div {
-  font-family: “Century Gothic”, CenturyGothic, AppleGothic, sans-serif;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   text-align: center;
   color: white;
 }

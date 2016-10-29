@@ -1,6 +1,14 @@
 {
   "short_name": "cssPoker",
   "name": "CSS Planning Poker",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "660x660",
+      "type": "image/png"
+    }
+  ],
+
   "start_url": "/cssPoker/index.html",
   "display": "standalone",
   "orientation": "portrait"
