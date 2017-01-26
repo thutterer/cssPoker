@@ -50,7 +50,7 @@ label {
 input:checked + label {
   position: absolute;
   animation-name: blackOutAndIn;
-  animation-duration: 3s;
+  animation-duration: 1s;
   font-size: 50vh;
   padding: 0;
   left: 0;
